@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/synchroscan/static/css/main.06db0cd8.css",
+    "main.js": "/synchroscan/static/js/main.09911b6b.js",
+    "static/js/453.3d1f24ea.chunk.js": "/synchroscan/static/js/453.3d1f24ea.chunk.js",
+    "index.html": "/synchroscan/index.html",
+    "main.06db0cd8.css.map": "/synchroscan/static/css/main.06db0cd8.css.map",
+    "main.09911b6b.js.map": "/synchroscan/static/js/main.09911b6b.js.map",
+    "453.3d1f24ea.chunk.js.map": "/synchroscan/static/js/453.3d1f24ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06db0cd8.css",
+    "static/js/main.09911b6b.js"
+  ]
+}
